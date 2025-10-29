@@ -16,3 +16,9 @@ void dynamicprint(const char * word)
 }
 
 
+int sum(int a , int b)
+{
+
+    return a+b ; // this a new small function addes 
+}
+
