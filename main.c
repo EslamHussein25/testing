@@ -27,7 +27,7 @@ int sub(int a , int b)
     return a - b ;
 }
 
-int mul(int a , int b )
+int mul(int a , int b  , int c)
 {
-    return a * b ;
+    return a * b  * c;
 }
