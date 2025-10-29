@@ -22,3 +22,8 @@ int sum(int a , int b)
     return a+b ; // this a new small function addes 
 }
 
+int sub(int a , int b)
+{
+    return a- b ;
+}
+
